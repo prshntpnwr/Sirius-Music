@@ -5,7 +5,7 @@
   ScreenShots: 
   
   Steps to run app:
-    After Downloading the sirius Music folder, there is both source code folder and apk folder.
-	- Open "Sirius Music" folder.
-	- Open "apk" folder to install application.
-	- Open "Sirius Music Source Code" folder to see and open source code.
+  	After Downloading the sirius Music folder, there is both source code folder and apk folder.
+  	- Open "Sirius Music" folder.
+  	- Open "apk" folder to install application.
+  	- Open "Sirius Music Source Code" folder to see and open source code.
