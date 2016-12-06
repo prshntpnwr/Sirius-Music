@@ -27,7 +27,6 @@ public class welcome_screen extends MainActivity {
 
     @Override
     protected void onPause() {
-        // TODO Auto-generated method stub
         super.onPause();
         finish();
 
